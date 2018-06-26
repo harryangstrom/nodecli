@@ -4,8 +4,12 @@
   "license": "MIT",
   "bin": {
     "outside": "bin/outside"
-  },  
+  },
   "scripts": {},
   "devDependencies": {},
-  "dependencies": {}
+  "dependencies": {
+    "axios": "^0.18.0",
+    "minimist": "^1.2.0",
+    "ora": "^2.1.0"
+  }
 }
